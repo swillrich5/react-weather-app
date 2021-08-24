@@ -2,8 +2,10 @@
 function App() {
   return (
     <div className="App">
-      <h1>React Weather App</h1>
-      <h2>Coming Soon</h2>
+      <div className="mt-5 container">
+      <h1 className="text-center">React Weather App</h1>
+      <h2 className="text-center">Coming Soon</h2>
+      </div>
     </div>
   );
 }
